@@ -1,0 +1,9 @@
+.container {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.button {
+  margin-top: 24px;
+}
